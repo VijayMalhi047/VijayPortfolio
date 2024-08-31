@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "title": "Portfolio Website",
+            "image": "/images/PortfolioWebsite.jpg",
+            "link": "",
+            "tags": ["Next.js", "React.js", "Typescript", "Tailwind CSS"],
+            "text": "A portfolio website with responsive design that highlights professional work and services"
+        },
+        {
+            "title": "Health Website",
+            "image": "/images/healthPic.jpeg",
+            "link": "https://nova-health-bwpv.vercel.app/",
+            "tags": ["Next.js", "Javascript", "Bootstrap"],
+            "text": "A single-page application with responsive design that highlights professional work"
+        },
+        {
+            "title": "Quiz Website",
+            "image": "/images/quizPic.jpg",
+            "link": "https://nextjs-quiz-app-five.vercel.app/",
+            "tags": ["Next.js", "React.js", "Typescript", "Tailwind CSS"],
+            "text": "An interactive platform designed to create, share, and enjoy engaging quizzes, ."
+        }
+    ]
+}

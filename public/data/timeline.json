@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "title": "React.js & Next.js Fellow",
+  "company": "Bytewise Limited",
+  "tasks": "Developing modern web applications with a focus on React.js and Next.js, including dynamic dashboards and responsive landing pages, with API integration",
+  "tags": ["React", "Next.js", "Typescript"],
+  "year": "2024"
+        },
+        {
+            "title": "Fontend Developer",
+            "company": "Freelancing",
+            "tasks": "Building modern web applications with API integration such as landingpages and dashboards",
+            "tags": ["NextJS", "React", "Typescript", "REST", "GraphQL"],
+            "year": "2024"
+        },
+        {
+            "title": "Web Developer Intern",
+            "company": "Veritech Limited",
+            "tasks": "Worked on building responsive user interfaces using HTML, CSS, bootstrap, and JavaScript, contributing to the development of visually appealing and user-friendly web applications.",
+            "tags": ["Html", "CSS", "Javascript", "Bootstrap"],
+            "year": "2022"
+        }
+    ]
+}
